@@ -89,6 +89,7 @@ namespace fortuneTeller
                 case 3: vacationHomeLocation = "Jupiter";
                     break;
                 default: vacationHomeLocation = "Venus";
+                    break;
             } // end switch 
             // assign vacatioinHomeLocation continued
             if (numberOfSiblings > 3)
